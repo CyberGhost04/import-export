@@ -1,0 +1,478 @@
+{
+  "content": {
+    "site_title": "Akshatra Bluewater Logistics (ABL)",
+    "meta_description": "Akshatra Bluewater Logistics connects trusted Indian producers with global markets through considered import and export partnerships.",
+    "navigation": {
+      "brand_mark": "ABL",
+      "company_name": "AKSHATRA BLUEWATER LOGISTICS",
+      "brand_aria_label": "Akshatra Bluewater Logistics home",
+      "menu_label": "Toggle navigation",
+      "nav_aria_label": "Main navigation",
+      "links": [
+        {"label": "What we do", "href": "/#what-we-do"},
+        {"label": "Markets", "href": "/#markets"},
+        {"label": "Our approach", "href": "/#approach"},
+        {"label": "About ABL", "href": "/#about"}
+      ],
+      "contact_label": "Let’s talk"
+    },
+    "hero": {
+      "eyebrow": "INDIA, CONNECTED",
+      "title_line_one": "Trade that",
+      "title_line_two": "moves",
+      "title_emphasis": "us",
+      "title_after_emphasis": "forward.",
+      "description": "From India's finest harvests to the world's most important industries. We make cross-border trade feel closer.",
+      "primary_cta": "Explore our trade",
+      "secondary_cta": "A little about ABL",
+      "footnote": "Rooted in India. Open to the world.",
+      "image_alt": "Container ship carrying international cargo at sea",
+      "image_badge": "GOOD THINGS\nGO PLACES.",
+      "image_caption": "THE WORLD, IN GOOD COMPANY",
+      "slide_number": "01 / 06",
+      "scroll_label": "SCROLL TO DISCOVER",
+      "footer_label": "EST. TO CONNECT"
+    },
+    "intro": {
+      "kicker_number": "01",
+      "kicker": "A WORLD OF POSSIBILITY",
+      "title_line_one": "Good trade is",
+      "title_line_two": "more than",
+      "title_emphasis": "goods.",
+      "description": "It’s trust, built one partnership at a time. ABL brings together the people, products and possibilities that move business forward — connecting India's remarkable capabilities with opportunity around the globe.",
+      "signoff_lines": ["Thoughtfully sourced.", "Globally delivered."],
+      "stats": [
+        {"value": "06", "label": "FOCUS MARKETS"},
+        {"value": "05", "suffix": "+", "label": "TRADE CATEGORIES"},
+        {"value": "01", "label": "CONNECTED APPROACH"}
+      ],
+      "closing_note_lines": ["Built around what matters.", "Ready for what’s next."]
+    },
+    "trade_gallery": {
+      "kicker": "A CLOSER LOOK / TRADE, IN MOTION",
+      "title_line_one": "A world of goods.",
+      "title_line_two": "A world of",
+      "title_emphasis": "possibility.",
+      "description": "Every shipment is a connection between people, businesses and new opportunities.",
+      "card_label": "ABL GLOBAL TRADE",
+      "card_action_prefix": "Learn more"
+    },
+    "portfolio": {
+      "kicker_number": "02",
+      "kicker": "WHAT WE MOVE",
+      "title_line_one": "Many worlds.",
+      "title_line_two": "One partner.",
+      "title_emphasis": "One partner.",
+      "description": "A considered portfolio spanning the essentials, the specialised and the things that keep the world moving.",
+      "category_count_label": "trade categories",
+      "previous_label": "Show previous trade categories",
+      "next_label": "Show more trade categories",
+      "carousel_aria_label": "Trade categories",
+      "card_action_prefix": "View details for",
+      "disclaimer": "Product availability and trade lanes are subject to destination-specific regulations and partner requirements."
+    },
+    "markets": {
+      "kicker_number": "03",
+      "kicker": "WHERE WE CONNECT",
+      "title_line_one": "Local insight.",
+      "title_line_two": "Global reach.",
+      "title_emphasis": "Global reach.",
+      "description": "Every market has its own rhythm. We match the right products and partners to the opportunities that make sense.",
+      "globe_label": "INDIA TO EVERYWHERE",
+      "footer_prompt": "AND THE NEXT GOOD PARTNERSHIP?",
+      "footer_cta": "Let’s find out"
+    },
+    "approach": {
+      "kicker_number": "04",
+      "kicker": "THE ABL WAY",
+      "title_lines": ["Good things", "happen when"],
+      "title_emphasis": "we connect.",
+      "description": "Trade shouldn’t feel complicated. We keep the process personal, transparent and focused on the long view.",
+      "steps": [
+        {"title": "We listen", "description": "We start with your needs, your standards and the destination you have in mind."},
+        {"title": "We connect", "description": "Our network brings the right producers, suppliers and buyers to the same table."},
+        {"title": "We deliver", "description": "Clear communication and considered coordination keep every detail moving."}
+      ]
+    },
+    "founders_note": {
+      "kicker_number": "05",
+      "kicker": "A NOTE FROM OUR FOUNDERS",
+      "stamp_lines": ["BUILT ON", "TRUST, MADE", "FOR THE WORLD."],
+      "stamp_caption": "A NOTE FROM THE PEOPLE BEHIND ABL",
+      "brand_mark": "ABL",
+      "quote": "We believe the best kind of trade creates something lasting — not just a transaction, but a relationship that makes the next one better.",
+      "body": "Akshatra Bluewater Logistics began with a simple idea: Indian businesses deserve a thoughtful, dependable partner on the world stage. We’re building that bridge with care, curiosity and the belief that good partnerships can take us all further."
+    },
+    "contact": {
+      "kicker_number": "06",
+      "kicker": "YOUR NEXT MOVE",
+      "title_line_one": "Have a world",
+      "title_line_two": "in",
+      "title_emphasis": "mind?",
+      "description": "Tell us what you’re looking for. We’ll help you find the right way forward.",
+      "conversation_label": "LET’S START A CONVERSATION",
+      "location_label": "BASED IN INDIA · CONNECTED EVERYWHERE",
+      "cta_label": "Make an enquiry",
+      "email_subject": "Trade enquiry"
+    },
+    "footer": {
+      "brand_mark": "ABL",
+      "company_name": "AKSHATRA BLUEWATER LOGISTICS",
+      "tagline": "ROOTED IN INDIA. OPEN TO THE WORLD."
+    },
+    "detail": {
+      "brand_label": "ABL",
+      "brand_mark": "ABL",
+      "category_breadcrumb": "TRADE PORTFOLIO",
+      "insight_breadcrumb": "GLOBAL TRADE",
+      "category_not_found_title": "Trade category not found.",
+      "category_not_found_description": "This category may have moved or is not currently listed.",
+      "back_to_categories": "Back to all trade categories",
+      "back_to_stories": "Back to trade stories",
+      "route_kicker_number": "01",
+      "route_kicker": "ORIGIN & DESTINATION",
+      "route_title_line_one": "Trade routes,",
+      "route_title_line_two": "",
+      "route_title_emphasis": "made clear.",
+      "route_description": "Indicative trade lanes for this category. Actual origins, destinations and availability are confirmed for each enquiry.",
+      "origin_label": "ORIGIN",
+      "destination_label": "DESTINATION",
+      "logistics_kicker_number": "02",
+      "logistics_kicker": "MOVEMENT & HANDLING",
+      "logistics_title_line_one": "Considered",
+      "logistics_title_line_two": "",
+      "logistics_title_emphasis": "at every step.",
+      "logistics_description": "Transport arrangements depend on the product specification, shipment size, destination and applicable requirements.",
+      "transport_heading": "Potential transport modes",
+      "handling_heading": "Planning considerations",
+      "enquiry_kicker_number": "03",
+      "enquiry_kicker": "START A CONVERSATION",
+      "enquiry_title_line_one": "Looking for",
+      "enquiry_title_line_two": "",
+      "enquiry_title_emphasis": "",
+      "enquiry_title_suffix": "?",
+      "discuss_category": "Discuss this category",
+      "insight_not_found_title": "Trade story not found.",
+      "insight_not_found_description": "This trade story may have moved or is not currently listed.",
+      "insight_route_kicker_number": "01",
+      "insight_route_kicker": "MOVEMENT OVERVIEW",
+      "insight_route_title_line_one": "From origin",
+      "insight_route_title_line_two": "",
+      "insight_route_title_emphasis": "to destination.",
+      "insight_route_description": "Typical movement considerations. Actual routing and services are confirmed for each shipment.",
+      "insight_route_label": "TRADE MOVEMENT",
+      "insight_logistics_kicker_number": "02",
+      "insight_logistics_kicker": "TRANSPORT & HANDLING",
+      "insight_logistics_title_line_one": "Planned for",
+      "insight_logistics_title_line_two": "",
+      "insight_logistics_title_emphasis": "the journey.",
+      "insight_logistics_description": "Transport options and handling plans depend on the cargo, destination and the service available for the requested route.",
+      "insight_transport_heading": "Transport options",
+      "insight_handling_heading": "Planning considerations",
+      "insight_enquiry_kicker_number": "03",
+      "insight_enquiry_kicker": "EXPLORE OUR TRADE",
+      "insight_enquiry_title_line_one": "Have a shipment",
+      "insight_enquiry_title_line_two": "",
+      "insight_enquiry_title_emphasis": "in mind?",
+      "explore_categories": "Explore trade categories",
+      "photo_placeholder_label": "PHOTO TO BE ADDED",
+      "photo_placeholder_aria_prefix": "photo placeholder for"
+    },
+    "status": {
+      "loading": "Loading our trade information…",
+      "loading_detail": "Loading trade details…",
+      "unavailable_title": "Trade information is temporarily unavailable.",
+      "unavailable_description": "We could not load our trade information right now. Please check your connection and try again.",
+      "retry": "Try again"
+    }
+  },
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "Electronics & technology",
+      "direction": "Two-way trade",
+      "description": "The components and capabilities shaping a more connected world.",
+      "products": ["Phones & computers", "Semiconductors", "Gold & silver"],
+      "overview": "Electronic equipment, computing products, semiconductor components and selected precious metals sourced and supplied through destination-specific trade partnerships.",
+      "routes": [
+        {"direction": "Export", "origin": "India", "destination": "United States", "market": "United States"},
+        {"direction": "Import", "origin": "China", "destination": "India", "market": "China"}
+      ],
+      "transport_modes": ["Air freight", "Ocean freight", "Secure specialist carriage"],
+      "handling_notes": ["Confirm product classification, applicable duties and destination approvals before shipment.", "Use suitable protective packaging and handling for sensitive electronic components.", "Precious metals require shipment-specific security, insurance and documentation arrangements."],
+      "gallery": [
+        {"label": "Electronics & components", "image": "/electronics.jpg"},
+        {"label": "Gold & silver", "image": "/precious-metal.jpg"},
+        {"label": "United States destination", "image": "/destination-usa.jpg"},
+        {"label": "China destination", "image": "/destination-china.jpg"}
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "Chemicals & materials",
+      "direction": "Import",
+      "description": "Specialist inputs for the industries building what comes next.",
+      "products": ["Fertilisers", "Industrial chemicals", "Polymers", "Pharma ingredients"],
+      "overview": "Selected chemical, polymer, fertiliser and pharmaceutical inputs for industrial and manufacturing supply chains. Availability is subject to product approvals and destination rules.",
+      "routes": [
+        {"direction": "Import", "origin": "China", "destination": "India", "market": "China"},
+        {"direction": "Import", "origin": "United Arab Emirates", "destination": "India", "market": "United Arab Emirates"}
+      ],
+      "transport_modes": ["Ocean freight", "Road freight", "Specialist tank or bulk carriage where suitable"],
+      "handling_notes": ["Verify safety data sheets, product classification and import permissions before booking.", "Packaging, segregation and temperature controls depend on the specific material.", "Confirm carrier acceptance, labelling and handling requirements for each consignment."],
+      "gallery": [
+        {"label": "Chemicals & materials", "image": "/chemical-materials.jpg"},
+        {"label": "China destination", "image": "/destination-china.jpg"},
+        {"label": "United Arab Emirates destination", "image": "/destination-uae.jpg"}
+      ]
+    },
+    {
+      "id": "mobility",
+      "name": "Automotive & aviation",
+      "direction": "Import & export",
+      "description": "Essential parts, equipment and expertise for a world in motion.",
+      "products": ["Vehicle & auto parts", "Specialist tyres", "Aviation equipment", "Passenger cars"],
+      "overview": "Automotive components, specialist tyres, aviation equipment and selected vehicles coordinated against buyer specifications and destination requirements.",
+      "routes": [
+        {"direction": "Export", "origin": "India", "destination": "Germany", "market": "Germany"},
+        {"direction": "Export", "origin": "India", "destination": "Italy", "market": "Italy"},
+        {"direction": "Import", "origin": "Germany", "destination": "India", "market": "Germany"}
+      ],
+      "transport_modes": ["Ocean freight", "Air freight for selected parts", "RoRo or containerised vehicle shipping"],
+      "handling_notes": ["Confirm dimensions, weights, technical specifications and applicable vehicle or equipment approvals.", "Select handling and securing arrangements according to the item and carrier requirements.", "Confirm customs documents, insurance and any destination-specific certification before dispatch."],
+      "gallery": [
+        {"label": "Automotive & aviation products", "image": "/automotive-aviation.jpg"},
+        {"label": "Germany destination", "image": "/destination-germany.jpg"},
+        {"label": "Italy destination", "image": "/destination-italy.jpg"}
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Healthcare & pharma",
+      "direction": "Export",
+      "description": "Dependable essentials that help care travel further.",
+      "products": ["Generic medicines & tablets", "Medical disposables", "Healthcare supplies"],
+      "overview": "Generic medicines, tablets, medical disposables and healthcare supplies prepared for review against buyer specifications and destination market requirements.",
+      "routes": [
+        {"direction": "Export", "origin": "India", "destination": "United States", "market": "United States"},
+        {"direction": "Export", "origin": "India", "destination": "United Kingdom", "market": "United Kingdom"},
+        {"direction": "Export", "origin": "India", "destination": "Germany", "market": "Germany"}
+      ],
+      "transport_modes": ["Air freight", "Ocean freight", "Temperature-controlled transport where required"],
+      "handling_notes": ["Product registration, import permits and buyer qualifications must be verified before any shipment.", "Storage, packaging and temperature controls depend on product-specific requirements.", "Confirm batch traceability, shelf-life, labelling and documentation requirements for the destination."],
+      "gallery": [
+        {"label": "Healthcare & pharma products", "image": "/healthcare-pharma.jpg"},
+        {"label": "United States destination", "image": "/destination-usa.jpg"},
+        {"label": "United Kingdom destination", "image": "/destination-uk.jpg"},
+        {"label": "Germany destination", "image": "/destination-germany.jpg"}
+      ]
+    },
+    {
+      "id": "harvest",
+      "name": "Agriculture & food",
+      "direction": "Export",
+      "description": "From India's fields and coasts to tables around the world.",
+      "products": ["Basmati & non-basmati rice", "Turmeric, chilli & pepper", "Fruits & vegetables", "Seafood & select meats"],
+      "overview": "Rice, spices, fresh produce, seafood and selected meat products sourced for international food supply chains, subject to seasonal supply and market access.",
+      "routes": [
+        {"direction": "Export", "origin": "India", "destination": "United Arab Emirates", "market": "United Arab Emirates"},
+        {"direction": "Export", "origin": "India", "destination": "United States", "market": "United States"}
+      ],
+      "transport_modes": ["Ocean freight", "Air freight for selected fresh products", "Refrigerated or temperature-controlled carriage where required"],
+      "handling_notes": ["Confirm phytosanitary, food safety, animal health and market access requirements for each product.", "Fresh, frozen and ambient goods need different packaging, transit planning and temperature controls.", "Availability, seasonality, inspection and destination permits must be confirmed before shipment."],
+      "gallery": [
+        {"label": "Agriculture & food products", "image": "/agriculture-food.jpg"},
+        {"label": "United Arab Emirates destination", "image": "/destination-uae.jpg"},
+        {"label": "United States destination", "image": "/destination-usa.jpg"}
+      ]
+    },
+    {
+      "id": "industry",
+      "name": "Industrial & engineering",
+      "direction": "Export",
+      "description": "The machinery, know-how and components behind modern industry.",
+      "products": ["Auto components", "Industrial machinery & tools", "Fabricated metals", "Electrical equipment"],
+      "overview": "Engineering goods, automotive components, industrial machinery, tools, fabricated metal products and electrical equipment for international buyers.",
+      "routes": [
+        {"direction": "Export", "origin": "India", "destination": "United States", "market": "United States"},
+        {"direction": "Export", "origin": "India", "destination": "United Kingdom", "market": "United Kingdom"},
+        {"direction": "Export", "origin": "India", "destination": "Germany", "market": "Germany"}
+      ],
+      "transport_modes": ["Ocean freight", "Air freight for urgent components", "Project or break-bulk freight for oversized machinery"],
+      "handling_notes": ["Confirm drawings, specifications, tolerances, packing dimensions and installation requirements.", "Machinery may require crating, moisture protection, lifting plans or specialised loading.", "Check destination standards, conformity documents, customs classification and insurance before dispatch."],
+      "gallery": [
+        {"label": "Industrial & engineering products", "image": "/industria-engineering.jpg"},
+        {"label": "United States destination", "image": "/destination-usa.jpg"},
+        {"label": "United Kingdom destination", "image": "/destination-uk.jpg"},
+        {"label": "Germany destination", "image": "/destination-germany.jpg"}
+      ]
+    },
+    {
+      "id": "essentials",
+      "name": "Energy & refined products",
+      "direction": "Import",
+      "description": "Selected products and materials that power global supply chains.",
+      "products": ["Refined petroleum", "Organic & inorganic chemicals", "Polymer products"],
+      "overview": "Selected refined petroleum products, organic and inorganic chemicals, and polymer materials for approved industrial and commercial requirements.",
+      "routes": [
+        {"direction": "Import", "origin": "United Arab Emirates", "destination": "India", "market": "United Arab Emirates"},
+        {"direction": "Import", "origin": "China", "destination": "India", "market": "China"}
+      ],
+      "transport_modes": ["Ocean freight", "Road freight", "Specialist liquid or bulk carriage where appropriate"],
+      "handling_notes": ["Confirm product specifications, safety data, licences and legal permissions before arranging a shipment.", "Carrier, packaging and storage conditions depend on material classification and cargo form.", "Verify customs classification, insurance and all applicable transport and environmental requirements."],
+      "gallery": [
+        {"label": "Energy & petroleum products", "image": "/energy-petroleum.jpg"},
+        {"label": "United Arab Emirates destination", "image": "/destination-uae.jpg"},
+        {"label": "China destination", "image": "/destination-china.jpg"}
+      ]
+    },
+    {
+      "id": "textiles",
+      "name": "Textiles & garments",
+      "direction": "Export",
+      "description": "Thoughtfully made apparel and textile products for international markets.",
+      "products": ["Garments", "Textiles", "Apparel supplies"],
+      "overview": "Garments, textiles and apparel supplies coordinated to buyer requirements, product specifications and the needs of each destination market.",
+      "routes": [
+        {"direction": "Export", "origin": "India", "destination": "United States", "market": "United States"},
+        {"direction": "Export", "origin": "India", "destination": "United Kingdom", "market": "United Kingdom"},
+        {"direction": "Export", "origin": "India", "destination": "Italy", "market": "Italy"}
+      ],
+      "transport_modes": ["Ocean freight", "Air freight for time-sensitive orders", "Consolidated shipments where suitable"],
+      "handling_notes": ["Confirm size, colour, material, labelling and packaging specifications with the buyer.", "Shipment timing depends on production readiness, inspection and booking availability.", "Destination textile, product safety, origin marking and customs requirements should be checked."],
+      "gallery": [
+        {"label": "Textiles & garments", "image": "/textile-garment.jpg"},
+        {"label": "United States destination", "image": "/destination-usa.jpg"},
+        {"label": "United Kingdom destination", "image": "/destination-uk.jpg"},
+        {"label": "Italy destination", "image": "/destination-italy.jpg"}
+      ]
+    },
+    {
+      "id": "gems",
+      "name": "Gems & jewellery",
+      "direction": "Two-way trade",
+      "description": "Precious materials and crafted pieces, sourced for global partners.",
+      "products": ["Gemstones", "Fine jewellery", "Precious metals"],
+      "overview": "Selected gemstones, fine jewellery and precious metals connected with specialist buyers and suppliers through case-by-case trade arrangements.",
+      "routes": [
+        {"direction": "Export", "origin": "India", "destination": "United Arab Emirates", "market": "United Arab Emirates"},
+        {"direction": "Import", "origin": "United Arab Emirates", "destination": "India", "market": "United Arab Emirates"}
+      ],
+      "transport_modes": ["Secure air freight", "Insured specialist courier", "Secure carriage arranged to shipment requirements"],
+      "handling_notes": ["Verify authenticity, valuation, origin records and applicable trade permissions.", "Agree secure custody, insurance and chain-of-handling procedures before dispatch.", "Customs, declaration and destination requirements vary by item and shipment."],
+      "gallery": [
+        {"label": "Gems & jewellery", "image": "/gems-jwellery.jpg"},
+        {"label": "United Arab Emirates destination", "image": "/destination-uae.jpg"}
+      ]
+    },
+    {
+      "id": "services",
+      "name": "Technology services",
+      "direction": "Export",
+      "description": "Digital expertise and IT services that work across borders.",
+      "products": ["IT services", "Technology partnerships", "Digital solutions"],
+      "overview": "Cross-border technology services and digital partnerships delivered remotely to international clients, rather than as physical freight.",
+      "routes": [
+        {"direction": "Export", "origin": "India", "destination": "United States", "market": "United States"},
+        {"direction": "Export", "origin": "India", "destination": "United Kingdom", "market": "United Kingdom"}
+      ],
+      "transport_modes": ["Secure digital delivery", "Remote project delivery", "Client-site support by prior arrangement"],
+      "handling_notes": ["Agree service scope, delivery milestones, support arrangements and data handling in the contract.", "Review privacy, cybersecurity, intellectual property and cross-border data obligations.", "Tax, invoicing, payment and local regulatory requirements depend on the engagement and destination."],
+      "gallery": [
+        {"label": "Technology services", "image": "/technology-services.jpg"},
+        {"label": "United States destination", "image": "/destination-usa.jpg"},
+        {"label": "United Kingdom destination", "image": "/destination-uk.jpg"}
+      ]
+    }
+  ],
+  "trade_insights": [
+    {
+      "id": "port-connections",
+      "title": "A world of connections",
+      "detail": "Ports bring markets closer.",
+      "image": "/ship_dock.jpg",
+      "alt": "Cargo vessels and shipping containers at a port, viewed from above",
+      "overview": "International trade connects producers, carriers, port operators and buyers. Each movement is planned around the cargo, shipment schedule, destination requirements and the partners involved.",
+      "origin": "Origin port selected for the shipment",
+      "destination": "Destination port confirmed with the buyer",
+      "transport_modes": ["Ocean freight", "Containerised cargo", "Consolidated freight where suitable"],
+      "handling_notes": ["Confirm cargo readiness, packing details and shipping documents before booking.", "Port schedules, transit times and handling arrangements depend on the carrier and route.", "Destination customs clearance and delivery arrangements should be agreed in advance."]
+    },
+    {
+      "id": "cargo-handling",
+      "title": "Every detail in motion",
+      "detail": "From origin to destination.",
+      "image": "/container_crane.jpg",
+      "alt": "Container crane handling cargo between stacks at a shipping terminal",
+      "overview": "Cargo handling requires coordination between packing, terminal operations and transport providers. Appropriate preparation helps cargo move safely through each hand-off.",
+      "origin": "Supplier or consolidation facility",
+      "destination": "Receiving port or buyer facility",
+      "transport_modes": ["Container freight", "Road transport to and from port", "Special handling for out-of-gauge cargo"],
+      "handling_notes": ["Cargo dimensions, weight and packaging influence equipment and loading plans.", "Marking, securing and documentation must match carrier and destination requirements.", "Special, fragile or regulated goods may need additional preparation and handling."]
+    },
+    {
+      "id": "ocean-shipping",
+      "title": "Built for the long journey",
+      "detail": "Partnerships that go places.",
+      "image": "/ship_sunset.jpg",
+      "alt": "Container ship approaching a port at sunset",
+      "overview": "Ocean freight can support international movements for a wide range of goods. The right service depends on cargo characteristics, timing, route availability and the destination delivery plan.",
+      "origin": "India or an approved sourcing market",
+      "destination": "Buyer destination selected for the enquiry",
+      "transport_modes": ["Full container load", "Less-than-container load", "Refrigerated container where suitable"],
+      "handling_notes": ["Confirm cargo type, volume, ready date and delivery terms before comparing services.", "Transit schedules are indicative and may change with carrier operations and port conditions.", "Insurance, customs requirements and final-mile delivery should be confirmed for each shipment."]
+    }
+  ],
+  "markets": [
+    {
+      "id": "usa",
+      "name": "United States",
+      "summary": "Healthcare, textiles and engineering for a diverse, demanding market.",
+      "focus": ["Pharma", "Textiles", "Engineering", "Electronics", "IT services"]
+    },
+    {
+      "id": "uae",
+      "name": "United Arab Emirates",
+      "summary": "A natural meeting point for premium goods and regional trade.",
+      "focus": ["Gems & jewellery", "Food", "Machinery", "Petroleum"]
+    },
+    {
+      "id": "china",
+      "name": "China",
+      "summary": "Industrial inputs and components for a dynamic manufacturing ecosystem.",
+      "focus": ["Electronics", "Chemicals", "Industrial components"]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "summary": "Quality-led partnerships across healthcare, apparel and engineering.",
+      "focus": ["Pharma", "Garments", "Engineering"]
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "summary": "Precision, performance and enduring industrial collaboration.",
+      "focus": ["Auto components", "Automotive", "Pharma", "Machinery"]
+    },
+    {
+      "id": "italy",
+      "name": "Italy",
+      "summary": "Connecting craftsmanship and mobility with trusted trade partners.",
+      "focus": ["Garments", "Automotive"]
+    }
+  ],
+  "founders": [
+    {
+      "name": "Pravin Govind Mishra",
+      "title": "Managing Director & CEO"
+    },
+    {
+      "name": "Rahul Mekala",
+      "title": "Managing Director & COO"
+    }
+  ],
+  "contact": {
+    "email": "pravin.akshatra@outlook.com",
+    "secondary_email": "rahul.akshatra@gmail.com"
+  }
+}
