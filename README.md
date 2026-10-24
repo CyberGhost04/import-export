@@ -49,6 +49,19 @@ npm run dev
 
 The site runs at `http://localhost:5173`. To point the app at another API host, set `VITE_API_URL` to the API base path (for example, `https://api.example.com/api`).
 
+## Deploy to Render
+
+The repository includes a Render Blueprint (`render.yaml`) that deploys the FastAPI backend as a Docker web service and the Vite front end as a static site. Render links the services automatically so the frontend gets the backend host at build time. The backend allows HTTPS requests from Render `onrender.com` sites (and localhost during development).
+
+1. Push this repository to GitHub.
+2. In the [Render Dashboard](https://dashboard.render.com/), choose **New** > **Blueprint**.
+3. Connect the GitHub repository and select the branch to deploy. Render will find `render.yaml`; review the two services and click **Apply**.
+4. Wait for both services to finish deploying, then open the `abl-frontend` static-site URL.
+
+The frontend's `/trade/...` routes are configured to fall back to `index.html`, so direct links and page refreshes work. The backend health check is available at `/health`; its API is served under `/api`. To use a manually configured frontend API URL instead, set the frontend build environment variable `VITE_API_URL` to the API base path (for example, `https://api.example.com/api`).
+
+On Render's free web-service plan, the backend may spin down after inactivity; the first request after that can take longer while it starts again.
+
 ## Updating trade content
 
 Edit `backend/app/data/trade_data.json`. The `content` object holds the site title, navigation, all section headings and copy, accessibility labels, and detail-page labels. The `categories`, `markets` and `trade_insights` objects hold showcase data. Each trade category includes its overview, indicative routes, transport modes, handling notes and gallery entries. Set a gallery entry's `image` to a public image path when a photo is ready; leave it `null` to show the designed placeholder. The API validates the data against the response models in `backend/app/schemas/trade.py`; keep those in sync when changing the data shape.
