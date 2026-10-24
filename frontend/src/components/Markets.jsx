@@ -16,7 +16,6 @@ export default function Markets({ markets, content }) {
               <h3>{market.name}</h3>
               <p>{market.summary}</p>
               <div className="market-tags">{market.focus.map((item) => <span key={item}>{item}</span>)}</div>
-              <ArrowRight />
             </article>
           ))}
         </div>
